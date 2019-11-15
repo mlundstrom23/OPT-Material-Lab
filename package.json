@@ -1,0 +1,26 @@
+{
+  "name": "opt-material-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlundstrom23/OPT-Material-Lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlundstrom23/OPT-Material-Lab/issues"
+  },
+  "homepage": "https://github.com/mlundstrom23/OPT-Material-Lab#readme",
+  "dependencies": {
+    "babylonjs": "^4.0.3",
+    "babylonjs-loaders": "^4.0.3"
+  }
+}
